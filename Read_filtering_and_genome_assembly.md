@@ -89,5 +89,5 @@ bactopia \
    --r1 Illumina_filt_R1_paired.fastq.gz \
    --r2 Illumina_filt_R2_paired.fastq.gz \
    --ont Nanopore_filtered.q75.fastq.gz \
-   --short-polish
+   --short_polish
 ```
